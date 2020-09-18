@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Bilibili Legacy Player Loading Screen
-// @namespace    https://github.com/Aira-Sakuranomiya/snippets/
+// @namespace    https://github.com/Aira-Sakuranomiya/Bilibili-Legacy-Player-Loading-Screen/
 // @version      0.2.5
 // @description:en Remove new slogan of Bilibili video player, and restore the good old shaking TV
 // @description  对Bilibili视频播放器的加载界面，去除“你感兴趣的视频都在B站”的标语，并恢复旧的抖动小电视
 // @author       zhouhaoyu, Aira Sakuranomiya
-// @supportURL   https://github.com/zhouhaoyu/snippets/issues
+// @supportURL   https://github.com/Aira-Sakuranomiya/Bilibili-Legacy-Player-Loading-Screen/issues/
 // @include      /^https:\/\/www\.bilibili\.com\/video\/[BbAa][Vv]/
 // @include      /^https:\/\/www\.bilibili\.com\/bangumi\/play\/[Ee][Pp]/
 // @grant        none
