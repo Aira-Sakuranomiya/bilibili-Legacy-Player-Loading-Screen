@@ -1,6 +1,5 @@
 // ==UserScript==
-// @name         Bilibili 爷青回
-// @name:en      Bilibili Legacy Player Loading Screen
+// @name         Bilibili Legacy Player Loading Screen
 // @namespace    https://github.com/Aira-Sakuranomiya/snippets/
 // @version      0.2.5
 // @description:en Remove new slogan of Bilibili video player, and restore the good old shaking TV
