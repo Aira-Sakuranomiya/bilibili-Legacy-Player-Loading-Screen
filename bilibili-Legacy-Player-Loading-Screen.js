@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         bilibili 找回抖动小电视 (更新版)
+// @name         bilibili 找回抖动小电视加载动画 (更新版)
 // @name:en      bilibili Legacy Player Loading Screen
 // @namespace    https://github.com/Aira-Sakuranomiya/bilibili-Legacy-Player-Loading-Screen/
-// @version      0.3.1
+// @version      0.3.2
 // @description:en Remove new slogan of Bilibili video player, and restore the good old shaking TV
 // @description  去除播放器加载图案“你感兴趣的视频都在B站”，并恢复旧的抖动小电视
 // @author       Aira Sakuranomiya, zhouhaoyu
