@@ -1,5 +1,6 @@
 // ==UserScript==
-// @name         bilibili 找回抖动小电视加载动画 (更新版)
+// @name         哔哩哔哩找回抖动小电视加载动画 (更新版)
+// @name:en      bilibili Legacy Player Loading Screen
 // @namespace    https://github.com/Aira-Sakuranomiya/bilibili-Legacy-Player-Loading-Screen/
 // @version      0.3.2
 // @description:en Remove new slogan of Bilibili video player, and restore the good old shaking TV
