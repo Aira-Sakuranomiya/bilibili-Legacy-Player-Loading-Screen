@@ -1,7 +1,16 @@
-# bilibili 找回抖动小电视加载动画
+# bilibili-Legacy-Player-Loading-Screen
+---
+### 对小电视进行了反色处理并且取消了原脚本的对背景增亮
+支持最新的B站，不过只会在视频加载较慢的时候出现，网速很快的话那加载页面还来不及出现就没了
 
-### 还原B站抖动小电视，基于@zhouhaoyu的版本进行了修改
+<br>
 
-推荐将油猴的注入模式改成 "即时" 让脚本载入速度变快进行无缝替换
+#### 基于 [zhouhaoyu的脚本](https://greasyfork.org/zh-CN/scripts/408399-bilibili-%E7%88%B7%E9%9D%92%E5%9B%9E) 进行了修改
 
-[GreasyFork页面](https://greasyfork.org/zh-CN/scripts/411520-bilibili-%E6%89%BE%E5%9B%9E%E6%8A%96%E5%8A%A8%E5%B0%8F%E7%94%B5%E8%A7%86)
+#### 推荐将油猴的注入模式改成 "即时" 让脚本载入速度变快进行无缝替换
+
+---
+
+[GitHub地址](https://github.com/Aira-Sakuranomiya/bilibili-Legacy-Player-Loading-Screen/)
+
+[BUG提交](https://github.com/Aira-Sakuranomiya/bilibili-Legacy-Player-Loading-Screen/issues/)
