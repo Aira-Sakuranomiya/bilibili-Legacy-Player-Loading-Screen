@@ -16,7 +16,7 @@
     (document.head || document.documentElement).insertAdjacentHTML(
         'beforeend',
 `<style>
-.bilibili-player .bilibili-player-area .bilibili-player-video-panel{
+.bilibili-player .bilibili-player-area .bilibili-player-video-panel {
     background-color: rgba(0,0,0,.3) !important;
     backdrop-filter: blur(8px) !important;
 }
