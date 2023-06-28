@@ -11,6 +11,6 @@
 
 ---
 
-[GitHub地址](https://github.com/Aira-Sakuranomiya/bilibili-Legacy-Player-Loading-Screen/)
-
-[BUG提交](https://github.com/Aira-Sakuranomiya/bilibili-Legacy-Player-Loading-Screen/issues/)
+[GitHub 地址](https://github.com/Aira-Sakuranomiya/bilibili-Legacy-Player-Loading-Screen/)
+[GreasyFork 地址](https://greasyfork.org/zh-CN/scripts/411520-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A8%E7%94%BB-%E6%89%BE%E5%9B%9E%E6%8A%96%E5%8A%A8%E5%B0%8F%E7%94%B5%E8%A7%86%E5%8A%A0%E8%BD%BD-%E3%81%A4%E3%83%AD-%E4%B9%BE%E6%9D%AF)
+[BUG 提交](https://github.com/Aira-Sakuranomiya/bilibili-Legacy-Player-Loading-Screen/issues/)
